@@ -107,3 +107,4 @@ plt.ylabel("Prosječna temperatura (°C)", fontsize=11)
 plt.grid(True, linestyle="--", alpha=0.6)
 plt.tight_layout()
 plt.show()
+
